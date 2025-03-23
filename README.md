@@ -3,11 +3,17 @@ Windows 11 Cleaner is a lightweight yet effective batch script designed to clean
 
 ✨ Features
 🔹 Malware Scan – Scan your system for threats using Windows Defender
+
 🔹 System File Check – Detect and repair corrupted system files with SFC and DISM
+
 🔹 Temporary File Cleanup – Remove unnecessary system junk and cache files
+
 🔹 Windows Update Check – Ensure your OS is up to date
+
 🔹 Network Cache Flush – Improve internet connectivity by clearing network caches
+
 🔹 Large File Detection – Find and manage the largest files taking up space
+
 
 📸 Screenshots
 
