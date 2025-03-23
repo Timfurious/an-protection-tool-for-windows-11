@@ -10,6 +10,7 @@ Windows 11 Cleaner is a lightweight yet effective batch script designed to clean
 🔹 Large File Detection – Find and manage the largest files taking up space
 
 📸 Screenshots
+
 🚀 Main Menu
 ![image](https://github.com/user-attachments/assets/0ebf0612-b4bf-4543-9591-a0082e7fb92f)
 
