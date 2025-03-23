@@ -2,6 +2,7 @@
 Windows 11 Cleaner is a lightweight yet effective batch script designed to clean and optimize Windows 11. This tool helps remove unnecessary files, free up disk space, improve performance, and enhance security using built-in Windows utilities.
 
 ✨ Features
+
 🔹 Malware Scan – Scan your system for threats using Windows Defender
 
 🔹 System File Check – Detect and repair corrupted system files with SFC and DISM
