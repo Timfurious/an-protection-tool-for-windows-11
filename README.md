@@ -27,8 +27,6 @@ Windows 11 Cleaner is a lightweight yet effective batch script designed to clean
 🔎 Scanning for Malware
 ![image](https://github.com/user-attachments/assets/45adefea-d988-4ad1-ad40-74553273c3d9)
 
-![image](https://github.com/user-attachments/assets/99fb5f85-688c-49ee-9def-317f85c907e4)
-
 ![image](https://github.com/user-attachments/assets/574eb236-40e0-4134-ac2d-53c09212c2fe)
 
 📥 Installation & Usage
