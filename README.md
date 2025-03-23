@@ -18,11 +18,17 @@ Windows 11 Cleaner is a lightweight yet effective batch script designed to clean
 
 📸 Screenshots
 
+
+
 🚀 Main Menu
 ![image](https://github.com/user-attachments/assets/0ebf0612-b4bf-4543-9591-a0082e7fb92f)
 
+
+
 🗑 Cleaning Temporary Files
 ![image](https://github.com/user-attachments/assets/c47d64e0-30fc-430b-a870-5da417f7b6e9)
+
+
 
 🔎 Scanning for Malware
 ![image](https://github.com/user-attachments/assets/45adefea-d988-4ad1-ad40-74553273c3d9)
